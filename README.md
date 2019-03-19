@@ -1,12 +1,13 @@
-# AngularAddAuthTokenNgrx
+# Angular Add Auth Token Ngrx Bearer
+Sistema de logueo y registro (json)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.3.
 
 ## Overview
-
+Este proyecto contiene tokens de autenticación|| seguridad para todas las peticiones HTTP cuando el token es almacenado en un NGRX store 
 This project demonstrates how to add authentication tokens to all of HTTP requests when the token is stored in an NGRX store.
 
-## Getting Started
+## Para Iniciar
 
 ```
 npm install
